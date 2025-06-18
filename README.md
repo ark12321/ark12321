@@ -1,15 +1,22 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on developing AI and analytics solutions, including automation tools and CI/CD pipelines deployed in Azure Kubernetes Service.
 
+🌱 I’m currently learning advanced concepts in Machine Learning, Azure Cloud Services, and improving my expertise in data extraction using OCR and APIs like OpenAI and Azure Form Recognizer.
+
+👯 I’m looking to collaborate on AI/ML projects, web automation tools, and backend systems using Python, JavaScript, and Databricks.
+
+🤔 I’m looking for help with deploying large-scale AI models in production and optimizing performance in cloud-native applications.
+
+💬 Ask me about data extraction from complex formats, CI/CD deployments, web automation using Selenium, and working with Azure and Kubernetes.
+
+📫 How to reach me: ravikanth9166@gmail.com
+ ||🌐 [GitHub](https://github.com/ark12321) || 🔗 [LinkedIn](https://www.linkedin.com/in/ravikanth-akuthota-8798011b0/) ||📄 [Resume](https://drive.google.com/file/d/1q1PUBMJDyfTvZYMqL_VwOtXe21dvEClv/view?usp=sharing) ||
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love playing chess and cricket, and I've solved 700+ coding problems across platforms!
 
 
 # 💻 Tech Stack:
